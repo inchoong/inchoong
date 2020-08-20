@@ -6,9 +6,9 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 :link: [https://choong.net/](https://choong.net/)
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Go/Rust/Python
-- 💬 Ask me about anything related to Go/Rust/Python
-- 📫 How to reach me: [@taoste](https://github.com/inchoong/inchoong/issues)
+- 🌱 I’m currently learning Python/HTML/CSS/JavaScript/PHP/MySQL
+- 💬 Ask me about anything related to Python/HTML/CSS/JavaScript/PHP/MySQL
+- 📫 How to reach me: [@inchoong](https://github.com/inchoong/inchoong/issues)
 - ⚡ Fun fact: I :heart: :dog:s
 
 📊 **This week I spent my time on**
